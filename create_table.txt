@@ -1,0 +1,12 @@
+create database facebook_api;
+
+use database facebook_api;
+
+CREATE TABLE facebook_data
+(
+Name varchar(255),
+phone varchar(255),
+email varchar(255),
+date varchar(255),
+percentage varchar(255)
+);
